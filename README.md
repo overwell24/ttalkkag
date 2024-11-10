@@ -7,5 +7,5 @@
 <img src="https://github.com/user-attachments/assets/7cbed176-f6e3-4744-907d-10b07c7f6bfe">
 
 ## 프로젝트 시연 영상
-### [프로젝트시연 영상](https://studio.youtube.com/video/FIAYwesAcZc/edit)
+### [영상](https://studio.youtube.com/video/FIAYwesAcZc/edit)
 <img width="80%" src="https://github.com/user-attachments/assets/72390048-fc65-49ae-bae9-5e32e0142bd4">
