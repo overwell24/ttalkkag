@@ -3,11 +3,11 @@
 ## 프로젝트 멤버
 - 박상천
 - 이수정
-- 김민중
+- 김민준
 
 ## 기술 스택
-- ㅁㄴㅇ
-- -ㅁㄴㅇ
+- 웹서버: `Flask`
+- 주요 모듈: `openai` , `langchain`, `googleapiclient`, `youtube_transcript_api`
 
 ## 벡엔드 개발 과정
 ### [벡엔드 개발 레포지토리](https://github.com/overwell24/youtube-summary)
