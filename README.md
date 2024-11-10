@@ -1,16 +1,13 @@
 # 딸깍
 생성형 AI((LLM)을 활용한 유튜브 영상 요약 서비스입니다.
-## 프로젝트 멤버
-- 박상천
-- 이수정
-- 김민준
+
+## 벡엔드 개발 과정
+### [벡엔드 개발 레포지토리](https://github.com/overwell24/youtube-summary)
 
 ## 기술 스택
 - 웹서버: `Flask`
 - 주요 모듈: `openai` , `langchain`, `googleapiclient`, `youtube_transcript_api`
 
-## 벡엔드 개발 과정
-### [벡엔드 개발 레포지토리](https://github.com/overwell24/youtube-summary)
 
 ## 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/7cbed176-f6e3-4744-907d-10b07c7f6bfe">
