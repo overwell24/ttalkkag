@@ -10,5 +10,5 @@
 
 ## 프로젝트 시연 영상
 ### [영상](https://studio.youtube.com/video/FIAYwesAcZc/edit)
-<img width="90%" src="https://github.com/user-attachments/assets/72390048-fc65-49ae-bae9-5e32e0142bd4">
-<img width="90%" src="https://github.com/user-attachments/assets/87e93f48-7c92-48c0-9338-d682e182b010">
+<img width="100%" src="https://github.com/user-attachments/assets/72390048-fc65-49ae-bae9-5e32e0142bd4">
+<img width="100%" src="https://github.com/user-attachments/assets/87e93f48-7c92-48c0-9338-d682e182b010">
