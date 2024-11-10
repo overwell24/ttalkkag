@@ -1,7 +1,9 @@
 # 딸깍
-생성형 AI((LLM)을 활용한 유튜브 영상 요약 서비스
+- 생성형 AI((LLM)을 활용한 유튜브 영상 요약 서비스입니다.
 
-<img src="https://github.com/user-attachments/assets/72390048-fc65-49ae-bae9-5e32e0142bd4">
+### [시연영상](ㅁㄴㅇ)
+
+<img width="80%" src="https://github.com/user-attachments/assets/72390048-fc65-49ae-bae9-5e32e0142bd4">
 
   
 ## 시스템 아키텍처
