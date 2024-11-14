@@ -9,7 +9,7 @@
 - 주요 모듈: `openai` , `langchain`, `googleapiclient`, `youtube_transcript_api`
 
 
-## 요약 처리 파이프라인
+## 백엔드 요약 파이프라인 아키텍처
 <img src="https://github.com/user-attachments/assets/7cbed176-f6e3-4744-907d-10b07c7f6bfe">
 
 ## 프로젝트 시연 영상
