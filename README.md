@@ -11,7 +11,7 @@
 
 
 ## 백엔드 요약 파이프라인 아키텍처
-<img src="https://github.com/user-attachments/assets/7cbed176-f6e3-4744-907d-10b07c7f6bfe">
+<img src="https://github.com/user-attachments/assets/65e8e6a6-835c-4394-ac8b-d09ba6594d15">
 
 ## 프로젝트 시연 영상
 ### [영상](https://studio.youtube.com/video/FIAYwesAcZc/edit)
