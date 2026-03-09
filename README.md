@@ -6,22 +6,21 @@
 <details>
 <summary>프로젝트 관리 문서</summary>
   
-## 개발 주간 기록
+### 개발 주간 기록
 - [1,2,3 주차](https://github.com/overwell24/ttalkkag/wiki/1%2C2%2C3-%EC%A3%BC%EC%B0%A8)
-- [[9주차 | 9주차]]
-- [[10주차 | 10주차]]
-- [[11주차 | 11주차]]
-- [[12,13 주차 | 12,13 주차]]
+- [9주차](https://github.com/overwell24/ttalkkag/wiki/9%EC%A3%BC%EC%B0%A8)
+- [10주차](https://github.com/overwell24/ttalkkag/wiki/10%EC%A3%BC%EC%B0%A8)
+- [11주차](https://github.com/overwell24/ttalkkag/wiki/11%EC%A3%BC%EC%B0%A8)
+- [11,12주차](https://github.com/overwell24/ttalkkag/wiki/12%2C13-%EC%A3%BC%EC%B0%A8)
 
-## 학습 내용 정리 
-- [[Youtube Transcript API |Youtube Transcript API]]
-- [[OpenAI API |OpenAI API]]
-- [[GPT |GPT]]
-- [[RAG |RAG]]
-- [[LangChain | LangChain]]
-- [[LangChain 실습|LangChain 실습]]
+### 학습 내용 정리 
+- [Youtube Transcript API]
+- [OpenAI API](https://github.com/overwell24/ttalkkag/wiki/OpenAI-API)
+- [GPT](https://github.com/overwell24/ttalkkag/wiki/GPT)
+- [RAG](https://github.com/overwell24/ttalkkag/wiki/RAG)
+- [LangChain](https://github.com/overwell24/ttalkkag/wiki/LangChain)
+- [LangChain 실습](https://github.com/overwell24/ttalkkag/wiki/LangChain-%EC%8B%A4%EC%8A%B5)
 </details>
-
 
 ## 기술 스택
 - 웹서버: `Flask`
