@@ -5,8 +5,22 @@
 ## 벡엔드 개발 과정
 <details>
 <summary>프로젝트 관리 문서</summary>
+## 개발 주간 기록
+- [[1,2,3 주차 |1,2,3 주차]]
+- [[9주차 | 9주차]]
+- [[10주차 | 10주차]]
+- [[11주차 | 11주차]]
+- [[12,13 주차 | 12,13 주차]]
+
+## 학습 내용 정리 
+- [[Youtube Transcript API |Youtube Transcript API]]
+- [[OpenAI API |OpenAI API]]
+- [[GPT |GPT]]
+- [[RAG |RAG]]
+- [[LangChain | LangChain]]
+- [[LangChain 실습|LangChain 실습]]
 </details>
-### [벡엔드 개발 레포지토리](https://github.com/overwell24/youtube-summary)
+
 
 ## 기술 스택
 - 웹서버: `Flask`
