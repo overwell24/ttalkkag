@@ -7,7 +7,7 @@
 <summary>프로젝트 관리 문서</summary>
   
 ## 개발 주간 기록
-- [1,2,3 주차](1,2,3 주차)
+- [1,2,3 주차](https://github.com/overwell24/ttalkkag/wiki/1%2C2%2C3-%EC%A3%BC%EC%B0%A8)
 - [[9주차 | 9주차]]
 - [[10주차 | 10주차]]
 - [[11주차 | 11주차]]
