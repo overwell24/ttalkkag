@@ -14,7 +14,7 @@
 - [11,12주차](https://github.com/overwell24/ttalkkag/wiki/12%2C13-%EC%A3%BC%EC%B0%A8)
 
 ### 학습 내용 정리 
-- [Youtube Transcript API]
+- [Youtube Transcript API](https://github.com/overwell24/ttalkkag/wiki/Youtube-Transcript-API)
 - [OpenAI API](https://github.com/overwell24/ttalkkag/wiki/OpenAI-API)
 - [GPT](https://github.com/overwell24/ttalkkag/wiki/GPT)
 - [RAG](https://github.com/overwell24/ttalkkag/wiki/RAG)
