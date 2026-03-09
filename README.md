@@ -3,6 +3,9 @@
 전공과 AI의 융합 공모전 출품작 / 캡스톤 다지인 프로젝트입니다.
 
 ## 벡엔드 개발 과정
+<details>
+<summary>프로젝트 관리 문서</summary>
+</details>
 ### [벡엔드 개발 레포지토리](https://github.com/overwell24/youtube-summary)
 
 ## 기술 스택
